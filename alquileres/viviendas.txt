@@ -1,0 +1,14 @@
+1,Avenida Reino de España,95,3,2,600,121,libre
+2,Calle Cabo de Gata,125,4,2,800,124,libre
+3,Corredor del Moro,240,5,3,1250,126,libre
+4,Calle Pallars,54,1,1,400,129,libre
+5,Calle Disney nº70 5ºA,126,3,2,790,128,libre
+6,Avenida del Mediterráneo nº45 6ºA,95,2,2,600,134,libre
+7,Avenida del Mediterráneo nº45 6ºA,95,2,2,600,134,libre
+8,Calle del Moro,64,2,1,550,139,libre
+9,Calle Madrid nº80 1ºF,126,4,1,785,149,libre
+10,Calle Roma,198,5,2,1395,197,libre
+11,Calle Antonio Maura nº85 4ºB,95,3,2,675,197,libre
+12,Calle Real nº 35 6ºF,99,3,2,750,187,libre
+13,Avenida Reino de España nº 70 5ºA,125,3,2,650,111,libre
+14,Calle Redondo nº8 3ºA,95,2,2,500,121,libre

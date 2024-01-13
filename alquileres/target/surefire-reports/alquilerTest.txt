@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: alquilerTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.036 s <<< FAILURE! - in alquilerTest
+testAlquilerConsulta(alquilerTest)  Time elapsed: 0.004 s  <<< ERROR!
+java.lang.ExceptionInInitializerError
+	at alquilerTest.<clinit>(alquilerTest.java:1)
+
